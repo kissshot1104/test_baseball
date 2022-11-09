@@ -2,6 +2,9 @@ package baseball;
 
 public class Application {
     public static void main(String[] args) {
-        // TODO: 프로그램 구현
+        int[] computer = {1, 2, 3};
+        int[] player = {1, 2, 3};
+
+
     }
 }
